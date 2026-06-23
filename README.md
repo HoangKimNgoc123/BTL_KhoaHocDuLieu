@@ -15,3 +15,5 @@ Nhấn [vào đây](https://youtu.be/E7wIxmg48y0) để truy cập Link.
   ```
   python chatgpt_review.py
   ```
+### Sơ đồ tổng quan về đề tài 
+<img width="6446" height="5538" alt="NotebookLM Mind Map" src="https://github.com/user-attachments/assets/d3fe744c-4a63-407f-94dc-f483986f164e" />
