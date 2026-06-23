@@ -1,7 +1,7 @@
 # BTL-KHOA HỌC DỮ LIỆU
-## Họ và tên: Hoàng Kim Ngọc
-## MSSV: K225480106053
-## Lớp: K58KTP
+### Họ và tên: Hoàng Kim Ngọc
+### MSSV: K225480106053
+### Lớp: K58KTP
 
 ### 1.Link youtube thuyết trình
 Nhấn [vào đây](https://youtu.be/E7wIxmg48y0) để truy cập Link. 
