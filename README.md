@@ -9,7 +9,7 @@ Nhấn [vào đây](https://youtu.be/E7wIxmg48y0) để truy cập Link.
 - Bước 1: Clone file chatgpt_review.py trên git này
 - Bước 2: Dùng lệnh dưới đây để tải các thư viện cần thiết:
   ```
-  pip install pandas numpy matplotlib seaborn scikit-learn scipy joblib threadpoolctl
+  pip install pandas numpy matplotlib seaborn scikit-learn 
   ```
 - Bước 3: Dùng lệnh dưới đây để chạy code:
   ```
